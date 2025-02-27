@@ -6,3 +6,5 @@ i wanan cry
 
 
 how long does a commit take
+
+i luv u
