@@ -14,4 +14,10 @@ There are usually 2 types of 2-level circuits:
 
 ### There are two types of representations of circuits:
 1. [[Minterms]]
+	- When looking at these, we associate it with an **OR** of **1s**
 2. [[Maxterms]]
+	- When looking at these, we associate it with an **AND** of **0s**
+
+
+#### Converting between Minterms and Maxterms:
+We just use De Morgan
