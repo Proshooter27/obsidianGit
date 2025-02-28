@@ -25,4 +25,12 @@ We just use De Morgan's Law from [[Basic Boolean Identities]]
 ![[Conversion.png]]
 
 
-# Multi-level Circuit Opti
+# Multi-level Circuit Optimization
+- Sometimes, a multi-level circuit may have a cost advantage over 2-levels because of the area required.
+- But it might be slower because of the longer path that it takes going through multiple levels of logic gates
+
+> Therefore, our optimization depends on:
+> 	1. Area
+> 	2. Delay
+> 	3. Cost
+> 	4. Et
