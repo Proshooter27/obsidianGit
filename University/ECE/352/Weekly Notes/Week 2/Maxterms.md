@@ -12,3 +12,5 @@
 **An Example:**
 ![[MaxtermsEg1.png]]
 ![[MaxtermsEg2.png]]
+
+> We can convert t

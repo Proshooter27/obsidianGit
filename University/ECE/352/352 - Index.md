@@ -5,4 +5,5 @@
 #### Week 2:
 - [[Boolean Algebra]]
 - [[Circuit Optimization]]
+- [[Universal Gates]]
 - 
