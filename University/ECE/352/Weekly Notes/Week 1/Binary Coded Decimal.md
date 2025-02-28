@@ -5,5 +5,8 @@ Represents a decimal number in binary
 **Note:** Binary numbers 1010$_2$ to 1111$_2$ cannot be used to represent a decimal digit.
 
 ## An Example:
-![[Pasted image 20250227232526.png]]
+![[Binary Coded Decimal Example.png]]
 
+# BCD Addition
+
+1. Represent the 
