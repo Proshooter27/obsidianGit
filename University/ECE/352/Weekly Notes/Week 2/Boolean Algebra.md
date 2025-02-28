@@ -1,0 +1,1 @@
+Defined by a truth table which is the comple representation of a boole

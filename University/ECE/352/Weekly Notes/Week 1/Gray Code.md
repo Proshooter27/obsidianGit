@@ -9,4 +9,4 @@ Sequence where the next value is always **exactly one** bit different
 	- Minimizes uncertainty during transition
 	- Save power/energy of transitions
 	- Potentially simplifies circuitry
-	- Needed for Boolean Algebra simplification in [[Karnaugh Maps]]
+	- Needed for [[Boolean Algebra]] simplification in [[Karnaugh Maps]]
