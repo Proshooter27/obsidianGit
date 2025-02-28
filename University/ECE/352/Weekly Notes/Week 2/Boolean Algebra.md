@@ -14,4 +14,3 @@ This allows us to manipulate boolean functions
 1. [[Duality Principle]]
 2. [[Consensus Theorem]]
 3. [[Complementation]] of a function
-
