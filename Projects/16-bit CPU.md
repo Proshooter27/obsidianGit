@@ -1,1 +1,1 @@
-2025-02-28: Video given by Om https://youtu.be/Zt0JfmV7CyI?si=EVWfA67BmXeGsqhi
+2025-02-28: [Video](https://youtu.be/Zt0JfmV7CyI?si=EVWfA67BmXeGsqhi) given by Om
