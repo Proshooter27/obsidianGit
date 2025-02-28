@@ -8,6 +8,8 @@
 - [[Universal Gates]]
 
 #### Week 3:
+- [[Karnaugh Maps]]
+- 
 
 #### Week 4:
 
