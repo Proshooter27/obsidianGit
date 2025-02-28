@@ -20,4 +20,6 @@ There are usually 2 types of 2-level circuits:
 
 
 #### Converting between Minterms and Maxterms:
-We just use De Morgan
+We just use De Morgan's Law from [[Basic Boolean Identities]]
+
+![[Conversion.png]]
