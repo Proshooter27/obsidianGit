@@ -33,4 +33,10 @@ We just use De Morgan's Law from [[Basic Boolean Identities]]
 > 	1. Area
 > 	2. Delay
 > 	3. Cost
-> 	4. Et
+> 	4. Etc.
+
+
+### Example:
+Even if the same function has different representations, different representation would have different perks.
+
+![[Circuit OptimizationMultiple-1.png]]
