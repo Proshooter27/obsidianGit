@@ -10,3 +10,7 @@ This allows us to manipulate boolean functions
 
 [[Basic Boolean Identities]]
 
+### More Algebraic Manipulations:
+1. [[Duality Principle]]
+2. [[Consensus Theorem]]
+
