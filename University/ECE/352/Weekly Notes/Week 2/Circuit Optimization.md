@@ -12,6 +12,6 @@ There are usually 2 types of 2-level circuits:
 	- G = W(X+Y)(Y+Z)
 	- ![[POS.png]]
 
-### There are two types of representations:
+### There are two types of representations of circuits:
 1. [[Minterms]]
-2. [[Maxterms]
+2. [[Maxterms]]
