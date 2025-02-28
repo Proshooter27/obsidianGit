@@ -13,4 +13,4 @@ This allows us to manipulate boolean functions
 ### More Algebraic Manipulations:
 1. [[Duality Principle]]
 2. [[Consensus Theorem]]
-3. [[Complementation]] of a function
+3. [[Complements]] of a function
