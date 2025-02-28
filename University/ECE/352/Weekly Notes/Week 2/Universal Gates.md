@@ -17,3 +17,5 @@ By using one or more of a certain *"M-Gate"* to implement either:
 
 #### Example:
 ![[Universal Gates.png]]
+![[Universal Gates-1.png]]
+
