@@ -13,4 +13,4 @@
 ![[MaxtermsEg1.png]]
 ![[MaxtermsEg2.png]]
 
-> We can convert t
+> We can convert to [[Minterms]] from Maxterms by using De Morgan's Law from [[Basic Boolean Identities]] 
