@@ -1,0 +1,2 @@
+- Represents a decimal number in binary
+	- 
