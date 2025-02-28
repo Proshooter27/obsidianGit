@@ -10,4 +10,5 @@
 - As mention in the disclaimer above minterms can be used to represent functions
 
 **An Example:**
-![[MintermsEg1.png]]![[MintermsEg2.png]]
+![[MintermsEg1.png]] ![[MintermsEg2.png]]
+
