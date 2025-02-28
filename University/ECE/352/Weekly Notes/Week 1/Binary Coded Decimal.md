@@ -6,7 +6,3 @@ Represents a decimal number in binary
 
 ## An Example:
 ![[Binary Coded Decimal Example.png]]
-
-# BCD Addition
-
-1. Represent the 
