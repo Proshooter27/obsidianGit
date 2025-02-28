@@ -4,4 +4,9 @@ It is similar to *regular* algebra but works with variables that can only be 0's
 
 This allows us to manipulate boolean functions
 - Circuit/logic minimization
-- Identify shared 
+- Identify shared sub-functions (shared circuitry)
+- Verify functionality
+- Transform to use other types of gates or structures
+
+[[Basic Boolean Identities]]
+
