@@ -14,6 +14,9 @@ K-maps help in simplifying a boolean function
 ## Usage of a K-Map:
 ![[Karnaugh Maps-2.png]]
 
-
+### Rules for K-Map Groupings:
+1. Minimum group size is 1x1.
+2. We can increase the size of a group by doubling its dimensions.
+	- We can also 
 
 
