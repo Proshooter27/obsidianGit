@@ -15,6 +15,7 @@
 #### Week 4:
 - [[Decoders]]
 - [[Enable Signals]]
+- [[Encoders]]
 - 
 
 #### Week 5:
