@@ -16,4 +16,7 @@
 There are 2 main methods of doing so:
 1. Group all the 0s and write the corresponding sum terms.
 	- ![[Further Circuit Optimization using K-Maps.png]]
-2. Solve for the complement of the func
+2. Solve for the complement of the function.
+	- Change all the 1s to 0s and the 0s to 1s.
+	- Group all the 1s to find the complement function
+	- Then complement both sides and use DeMorgan's Law from [[Basic Boolean Identities]] to get the original function in POS form.
