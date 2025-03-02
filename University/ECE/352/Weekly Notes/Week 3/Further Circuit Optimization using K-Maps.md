@@ -12,3 +12,8 @@
 	2. Cover remaining uncovers 1's using PI's
 4. **Stop when all the 1s are covered.**
 
+## Using K-maps to represent POSs:
+There are 2 main methods of doing so:
+1. Group all the 0s and write the corresponding sum terms.
+	- ![[Further Circuit Optimization using K-Maps.png]]
+2. Solve for the complement of the func
