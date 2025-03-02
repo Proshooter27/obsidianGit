@@ -13,6 +13,10 @@ It resolves the issue by assigning each bit a priority.
 > It always prioritizes 1s at higher-numbered positions.
 > That means whatever is the highest-numbered label that has a value 1, it gets represented in a binary number as an output of an encoder.
 
-> 
+> **Now, what if all the values are zero?**
+
+#### We solve this by using a Value Detect system.
+
+Whenever all the inputs become 0, that means the Value of 
 
 
