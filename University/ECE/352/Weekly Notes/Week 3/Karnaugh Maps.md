@@ -19,6 +19,5 @@ K-maps help in simplifying a boolean function
 2. We can increase the size of a group by doubling its dimensions.
 	- We can also wrap around k-map groups by sides or by the corners.
 3. Groups must be rectangular shapes with each side a power-of-two.
-4. **It is always better to have bigger groups and less number of groups**
-
+4. **It is always better to have bigger groups and less number of groups to get the most efficient circuit.**
 

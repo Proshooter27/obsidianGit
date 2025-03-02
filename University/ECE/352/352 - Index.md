@@ -9,7 +9,7 @@
 
 #### Week 3:
 - [[Karnaugh Maps]]
-- 
+- [[Further Circuit Optimization using K-Maps]]
 
 #### Week 4:
 
