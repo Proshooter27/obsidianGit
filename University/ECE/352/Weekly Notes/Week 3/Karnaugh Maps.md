@@ -8,4 +8,12 @@ K-maps help in simplifying a boolean function
 ### 2 Variable K-Map:
 ![[Karnaugh Maps.png]]
 
+> A value of 0 represents the complement of a variable and A value of 1 represents a variable.
+
+
+## Usage of a K-Map:
+![[Karnaugh Maps-2.png]]
+
+
+
 
