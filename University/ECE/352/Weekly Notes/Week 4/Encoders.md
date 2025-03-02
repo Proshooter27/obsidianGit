@@ -17,6 +17,9 @@ It resolves the issue by assigning each bit a priority.
 
 #### We solve this by using a Value Detect system.
 
-Whenever all the inputs become 0, that means the Value of 
+Whenever all the inputs become 0, that means the value of V becomes 0 making all the other outputs as Don't Cares.
 
+However if at-least one input is 1, then the value of V becomes 1 making the encoder work as normal.
+
+![[Encoders-2.png]]
 
