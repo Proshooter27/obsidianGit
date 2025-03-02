@@ -5,4 +5,10 @@
 4. **Selection Rule:** Each prime implicant in the solution must include at least one minterm *not* included in any other prime implicant in the solution.
 
 ### Process of finding the best representation:
-1. FInd all the prim
+1. Find all the prime implicants.
+2. Immediately include all the essential PIs.
+3. If all 1's are not included:
+	1. Eliminate the redundant PIs
+	2. Cover remaining uncovers 1's using PI's
+4. **Stop when all the 1s are covered.**
+
