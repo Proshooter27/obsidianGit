@@ -4,3 +4,5 @@
 3. **Essential Prime Implicant:** A prime implicant that is the *only choice* for covering a needed minterm.
 4. **Selection Rule:** Each prime implicant in the solution must include at least one minterm *not* included in any other prime implicant in the solution.
 
+### Process of finding the best representation:
+1. FInd all the prim
