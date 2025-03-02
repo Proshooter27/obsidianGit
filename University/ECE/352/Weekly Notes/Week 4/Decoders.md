@@ -16,3 +16,11 @@ Every output label can be used to represent a minterm of a given function.
 
 
 ### Structure of a decoder:
+![[Decoders-2.png]]
+
+In this decoder, if you look at the circuit of the A0 input. It looks like a 1:2 decoder similar like the one below
+
+![[Decoders-3.png]]
+
+Hence, we can say that we can use hierarchy to create a larger decoder from a smaller one.
+
