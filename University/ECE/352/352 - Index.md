@@ -13,6 +13,7 @@
 - [[Don't Cares]]
 
 #### Week 4:
+- [[Decoders]]
 - 
 
 #### Week 5:
