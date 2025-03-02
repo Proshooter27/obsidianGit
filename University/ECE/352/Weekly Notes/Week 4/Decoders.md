@@ -7,3 +7,12 @@ Only one of the outputs can have a value 1 while the rest of the outputs have a 
 
 > Easy way to remember how it works - The input code is a binary number and the output label that has a value same as the input binary number will have an output of 1.
 
+![[Decoders.png]]
+
+### Using minterms to represent SOPs:
+Every output label can be used to represent a minterm of a given function.
+
+![[Decoders-1.png]]
+
+
+### Structure of a decoder:
