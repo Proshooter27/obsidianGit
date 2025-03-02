@@ -3,4 +3,9 @@
 
 ![[Encoders.png]]
 
-> Ho
+> However, if you have Multiple 1 bit inputs or zero 1 bit inputs, it would give you an erroneous output value. That's where **priority encoders** come into the picture
+
+## Priority Encoders
+It resolves the issue by assigning each bit a priority.
+
+
