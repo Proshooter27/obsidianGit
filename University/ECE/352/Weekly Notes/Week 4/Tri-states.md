@@ -14,3 +14,12 @@ A **Tri-State Buffer** is a component that allows a input to pass if enabled oth
 ![[Tri-states-3.png]]
 ![[Tri-states-4.png]]
 
+## Circuits that you should NEVER make:
+1. ![[Tri-states-5.png]]
+2. ![[Tri-states-6.png]]
+3. ![[Tri-states-7.png]]
+4. ![[Tri-states-8.png]]
+5. ![[Tri-states-9.png]]
+
+## Things you SHOULD do:
+1. Make sure *every* gate input is driven by a valid logi
