@@ -16,7 +16,7 @@
 - [[Decoders]]
 - [[Enable Signals]]
 - [[Encoders]]
-- 
+- [[Multiplexers]]
 
 #### Week 5:
 
