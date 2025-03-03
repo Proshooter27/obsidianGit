@@ -1,0 +1,1 @@
+We usually consider 2 output states 0 and 1. But we also use another type of output called **High Impedance** 
