@@ -10,3 +10,7 @@ A **Tri-State Buffer** is a component that allows a input to pass if enabled oth
 > A Circuit must always have a valid output, be it 0 or 1.
 
 ### Implementing Logic with Tristates:
+
+![[Tri-states-3.png]]
+![[Tri-states-4.png]]
+
