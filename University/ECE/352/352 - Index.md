@@ -18,6 +18,7 @@
 - [[Encoders]]
 - [[Multiplexers]]
 - [[Value Fixing]]
+- [[Tri-states]]
 
 #### Week 5:
 
