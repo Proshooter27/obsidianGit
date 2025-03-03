@@ -24,5 +24,5 @@ A **Tri-State Buffer** is a component that allows a input to pass if enabled oth
 ## Things you SHOULD do:
 1. Make sure *every* gate input is driven by a valid logic signal (0 or 1) at *all* times
 2. Make sure the output is a valid logic signal (0 or 1) for *all* possible input combinations.
-3. Make sure a wire is *never* driven by two or more tristate outputs *at the same*.
-4.  
+3. Make sure a wire is *never* driven by two or more tristate outputs *at the same*. (Tristates with connected outputs are normally enabled by a decoder or similar logic)
+4. Make sure a wire is *never* connected to *only one* tristate output.
