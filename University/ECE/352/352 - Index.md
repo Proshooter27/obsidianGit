@@ -17,6 +17,7 @@
 - [[Enable Signals]]
 - [[Encoders]]
 - [[Multiplexers]]
+- [[Value Fixing]]
 
 #### Week 5:
 

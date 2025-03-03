@@ -1,0 +1,1 @@
+We can make a circuit more optimized by fixing values of inputs that we aren't using such that it reduces the number of gates or the size of the gates that we are using.
