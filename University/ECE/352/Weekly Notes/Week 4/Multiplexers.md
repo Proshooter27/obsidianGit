@@ -16,4 +16,5 @@ It is the summation of the product of the minterm and its corresponding data inp
 - We can build large muxes using smaller muxes (similar to decoders)
 
 ![[Multiplexers-3.png]]
-- It is a hierarchical system th
+
+- It is a hierarchical system that gives out the appropriate output.
