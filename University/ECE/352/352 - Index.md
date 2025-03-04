@@ -21,6 +21,7 @@
 - [[Tri-states]]
 
 #### Week 5:
+- [[Implementation Technology]]
 
 #### Week 6:
 
