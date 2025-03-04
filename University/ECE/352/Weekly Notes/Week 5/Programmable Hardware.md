@@ -9,4 +9,6 @@
 
 ## FPGAs
 - #### Logic: 
-	- 
+	We configure Look-Up Tables ([[LUTs]]) with truth tables
+	- Memory bits hold mux data input values(aka the function's truth table.
+	-  Mux selects are input variables of function.
