@@ -8,4 +8,5 @@
 - Consumes more power/energy
 
 ## FPGAs
-- ####L
+- #### Logic: 
+	- 
