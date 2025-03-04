@@ -3,6 +3,6 @@
 2. ROMs, PLDs (PAL/PLA)
 
 #### Tradeoffs of using Programmable hardware:
-- More aarea
+- More area
 - Adds delay
-- Consumes mor
+- Consumes more power/energy
