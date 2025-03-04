@@ -22,6 +22,7 @@
 
 #### Week 5:
 - [[Implementation Technology]]
+- [[LUTs]]
 
 #### Week 6:
 

@@ -17,3 +17,5 @@
 	Configurable wire connections
 	![[Programmable Hardware-1.png]]
 - #### Configurable routing muxes:
+	![[Programmable Hardware-2.png]]
+	
