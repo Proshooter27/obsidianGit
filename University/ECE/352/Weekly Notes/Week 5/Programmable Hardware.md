@@ -6,3 +6,6 @@
 - More area
 - Adds delay
 - Consumes more power/energy
+
+## FPGAs
+- ####L
