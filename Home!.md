@@ -7,16 +7,13 @@ banner_y: 0.556
 
 # Personal Projects
 
-- 🏡 Remodeling Projects
-    - [[Bathroom Remodel]]
-    - [[Paint entryway]]
-    - [[Research building Garage]]
-- ✍️ Writing Projects
-    - [[5 ways to love PKM more]]
-    - Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
-- 📚 Learning
-    - [[Early American History]]
-    - [[Spanish - Entry Level]]
+- 💻 Engineering Projects
+    - [[DN40 Docker]]
+    - [[Mechanical Keyboard]]
+    - [[16-bit CPU]]
+- 👔 Personal Projects
+	- [[Outfits]]
+	- [[PC]]
 
 # University
 
