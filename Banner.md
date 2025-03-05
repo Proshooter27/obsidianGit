@@ -1,1 +1,1 @@
-https://unsplash.com/photos/a-lake-surrounded-by-mountains-and-trees-under-a-cloudy-sky-q_kmIm1TpVU
+![[premium_photo-1668024966086-bd66ba04262f.avif]]

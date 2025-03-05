@@ -1,7 +1,8 @@
 ---
 cssclasses:
   - dashboard
-banner: "https://unsplash.com/photos/a-lake-surrounded-by-mountains-and-trees-under-a-cloudy-sky-q_kmIm1TpVU"
+banner: "![[premium_photo-1668024966086-bd66ba04262f.avif]]"
+banner_y: 0.384
 ---
 # Family
 
