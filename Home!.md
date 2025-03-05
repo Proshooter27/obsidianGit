@@ -4,24 +4,6 @@ cssclasses:
 banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 banner_y: 0.556
 ---
-# Family
-
-- 🏈 Sunday Game
-    - [[Spicy-Sweet Buffalo Popcorn]]
-    - [[Guest list]]
-    - [Jalapeno Popper Wantons](https://www.allrecipes.com/recipe/166991/jalapeno-popper-wontons/)
-- 👨‍👩‍👦 Objectives
-    - [[Family Recipes]]
-    - [[Family Calendar]]
-    - [[Education Plan]]
-    - [[Yearly Budget]]
-- 🌅 Exotic Vacations
-    - [[Peru]]
-    - [[Austria]]
-    - [[Texas]]
-- 🎥 Movies to Watch
-    - [Sleepless in Seattle](https://www.imdb.com/title/tt0108160/)
-    - [Joe vs the Volcano](https://www.imdb.com/title/tt0099892/)
 
 # Personal Projects
 
@@ -36,22 +18,10 @@ banner_y: 0.556
     - [[Early American History]]
     - [[Spanish - Entry Level]]
 
-# Work
+# University
 
-- 💼 Projects
-    - [[Cloud backup]]
-    - [[Firewall upgrades]]
-    - [[IT Cybersecurity training]]
-- 💰 Budget review
-    - [[Q1 2022]]
-    - [[Q2 2022]]
-    - [[Q3 2022]]
-    - [[Q4 2022]]
-- 👥 Personnel Review
-    - [[Sally Smith]]
-    - [[Bill Hansen]]
-    - [[Brad Jefferson]]
-    - [[Olga Olson]]
+- 💼 Fall 24
+    
 
 # Vault Info
 
