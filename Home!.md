@@ -19,7 +19,7 @@ banner_y: 0.556
 
 -  🍂 Fall 24
 -  🌷 Spring 25
-	-  ECE 352 [[Index]]
+	-  ECE 352 [[352 - Index]]
     
 
 # Vault Info
