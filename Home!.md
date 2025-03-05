@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - dashboard
-banner: "![[premium_photo-1668024966086-bd66ba04262f.avif]]"
-banner_y: 0.384
+banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
+banner_y: 0.556
 ---
 # Family
 
