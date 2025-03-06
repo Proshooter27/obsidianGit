@@ -23,6 +23,7 @@
 #### Week 5:
 - [[Implementation Technology]]
 - [[LUTs]]
+- [[Arithmetic Structures]]
 
 #### Week 6:
 
