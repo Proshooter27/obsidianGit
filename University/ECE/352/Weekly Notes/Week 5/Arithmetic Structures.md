@@ -18,4 +18,8 @@
 - It uses an XOR to check whether it is a subtraction or not
 - If SUB = 1 then subtraction else addition.
 - ![[Arithmetic Structures-4.png]]
+
+### Overflow detection
+- Unsigned overflow if **C = 1**
+- Signed overflow if **V = 1**
 - 
