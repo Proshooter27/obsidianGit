@@ -6,6 +6,9 @@ kanban-plugin: board
 
 ## To-Do
 
+- [ ] Re-Check Switch Sizes
+- [ ] Add Stabilizers
+- [ ] Research Stabilizers
 
 
 ## In - Prog
