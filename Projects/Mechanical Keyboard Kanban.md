@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## To-Do
 
-- [ ] Re-Check Switch Sizes
-- [ ] Add Stabilizers
 - [ ] Research Stabilizers
 - [ ] Find key-caps with the 2.25u and 1.75u format
 - [ ] Order SHIT
@@ -21,6 +19,8 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] Re-Check Switch Sizes
+- [ ] Add Stabilizers
 
 
 
