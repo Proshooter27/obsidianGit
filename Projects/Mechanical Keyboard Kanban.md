@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] Research Stabilizers
 - [ ] Find key-caps with the 2.25u and 1.75u format
-- [ ] Order SHIT
 - [ ] Build the plate for keyboard
 - [ ] Build Case
 
@@ -20,6 +19,7 @@ kanban-plugin: board
 ## Complete
 
 - [ ] Re-Check Switch Sizes
+- [ ] Order SHIT
 - [ ] Add Stabilizers
 
 
