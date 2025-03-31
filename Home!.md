@@ -17,10 +17,11 @@ banner_y: 0.556
 
 # University
 
--  🍂 Fall 24
--  🌷 Spring 25
-	-  ECE 352 [[352 - Index]]
+- 🌷 Spring 25
+	- ECE 352 [[352 - Index]]
     
+- 🍂 Fall 24
+
 
 # Vault Info
 
