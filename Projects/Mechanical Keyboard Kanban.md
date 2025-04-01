@@ -14,6 +14,8 @@ kanban-plugin: board
 - [ ] Build Case
 - [ ] Add screw socket for usb C breakout board in the case
 - [ ] Testing the firmware
+- [ ] Add VIA support for firm
+- [ ] Solve why VIA doesnt work on linux
 
 
 ## In - Prog
