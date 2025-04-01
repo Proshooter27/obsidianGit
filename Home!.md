@@ -1,12 +1,6 @@
 ---
 banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 ---
----
-cssclasses:
-  - dashboard
-banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
-banner_y: 0.564
----
 # Personal Projects
 
 - 💻 Engineering Projects
