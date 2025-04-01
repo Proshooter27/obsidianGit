@@ -6,9 +6,11 @@ kanban-plugin: board
 
 ## To-Do
 
+- [ ] Testing the PCB
 - [ ] Soldering all the sockets
+- [ ] Research for gasket mounts
 - [ ] Build the plate for keyboard
-- [ ] Add a socket for the rotary encoder
+- [ ] Add a socket for the rotary encoder in the plate
 - [ ] Build Case
 
 
