@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=iv__343ZwE0
 31/03/25:
 Video for gasket mounting a pcb
 https://www.youtube.com/watch?v=W4mXZvFGHDg
+
+
+Keyboard Case:
+1. https://www.printables.com/model/644212-75-82key-keyboard-wrist-rest-pad-insert-ready/files
