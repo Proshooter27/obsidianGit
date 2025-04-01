@@ -11,4 +11,5 @@ https://www.youtube.com/watch?v=W4mXZvFGHDg
 
 
 Keyboard Case:
-1. https://www.printables.com/model/644212-75-82key-keyboard-wrist-rest-pad-insert-ready/files
+1. ~~https://www.printables.com/model/644212-75-82key-keyboard-wrist-rest-pad-insert-ready/files~~
+2. https://www.printables.com/model/907395-open-case-3d-printed-keychron-v1-max-keyboard-case/files
