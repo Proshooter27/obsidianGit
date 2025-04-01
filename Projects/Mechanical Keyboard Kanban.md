@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Soldering all the sockets
 - [ ] Build the plate for keyboard
+- [ ] Add a socket for the rotary encoder
 - [ ] Build Case
 
 
