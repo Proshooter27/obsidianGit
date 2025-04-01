@@ -24,3 +24,4 @@
 - Signed overflow if **V = 1**
 - ![[Arithmetic Structures-5.png]]
 
+test bro im fucked
