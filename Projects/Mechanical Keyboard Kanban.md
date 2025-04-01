@@ -6,12 +6,14 @@ kanban-plugin: board
 
 ## To-Do
 
+- [ ] Soldering all the sockets
 - [ ] Build the plate for keyboard
 - [ ] Build Case
 
 
 ## In - Prog
 
+- [ ] Make the firmware for the 75% keyboard
 
 
 ## Complete
