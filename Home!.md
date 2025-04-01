@@ -1,4 +1,7 @@
 ---
+banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
+---
+---
 cssclasses:
   - dashboard
 banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
