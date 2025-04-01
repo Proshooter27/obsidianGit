@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] Build the plate for keyboard
 - [ ] Add a socket for the rotary encoder in the plate
 - [ ] Build Case
+- [ ] Add screw socket for usb C breakout board in the case
 
 
 ## In - Prog
