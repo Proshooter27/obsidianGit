@@ -6,8 +6,9 @@ kanban-plugin: board
 
 ## To-Do
 
-- [ ] Testing the PCB
+- [ ] Cut off part of the Main board to expose the testing pads on the pico
 - [ ] Soldering all the sockets
+- [ ] Testing the PCB
 - [ ] Research for gasket mounts
 - [ ] Add screw socket for usb C breakout board in the case
 - [ ] Testing the firmware
