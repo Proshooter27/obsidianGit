@@ -9,9 +9,6 @@ kanban-plugin: board
 - [ ] Testing the PCB
 - [ ] Soldering all the sockets
 - [ ] Research for gasket mounts
-- [ ] Build the plate for keyboard
-- [ ] Add a socket for the rotary encoder in the plate
-- [ ] Build Case
 - [ ] Add screw socket for usb C breakout board in the case
 - [ ] Testing the firmware
 - [ ] Add VIA support for firm
@@ -20,6 +17,9 @@ kanban-plugin: board
 
 ## In - Prog
 
+- [ ] Build the plate for keyboard
+- [ ] Add a socket for the rotary encoder in the plate
+- [ ] Build Case
 
 
 ## Complete
