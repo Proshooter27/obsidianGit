@@ -5,4 +5,6 @@ https://www.youtube.com/watch?v=dpd4y-xZGN0
 
 https://www.youtube.com/watch?v=iv__343ZwE0
 
-25/03/25:
+31/03/25:
+Video for gasket mounting a pcb
+https://www.youtube.com/watch?v=W4mXZvFGHDg
