@@ -16,3 +16,6 @@ Keyboard Case:
 Plate Generator??
 
 https://github.com/andimoto/keebcu
+
+Guy to follow for case?
+https://www.thingiverse.com/thing:6695334/files
