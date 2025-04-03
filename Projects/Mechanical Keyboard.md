@@ -22,5 +22,7 @@ https://www.thingiverse.com/thing:6695334/files
 
 Screws:
 knotch length = 7mm
-Head diameter = 3mm
-screw diameter = 1.90mm
+Head diameter = 3mm (in the plate)
+screw diameter = 1.90mm (in the top part)
+
+knotch socket diameter = 6.40mm (in the top part)
