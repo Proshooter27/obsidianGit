@@ -19,3 +19,8 @@ https://github.com/andimoto/keebcu
 
 Guy to follow for case?
 https://www.thingiverse.com/thing:6695334/files
+
+Screws:
+knotch length = 7mm
+Head diameter = 3mm
+screw diameter = 1.90mm
