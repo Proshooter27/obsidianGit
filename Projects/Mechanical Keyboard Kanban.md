@@ -13,7 +13,6 @@ kanban-plugin: board
 ## In - Prog
 
 - [ ] Build Case
-- [ ] Research for gasket mounts
 
 
 ## Complete
@@ -31,6 +30,7 @@ kanban-plugin: board
 - [ ] Cut off part of the Main board to expose the testing pads on the pico
 - [ ] Testing the firmware
 - [ ] Add VIA support for firm
+- [ ] Research for gasket mounts
 
 
 
