@@ -32,4 +32,4 @@ knotch socket diameter = 6.40mm (in the top part)
 For the pins
 D of pin = 2.4mm     L = 5mm
 Socket
-D = 
+D = 2.5mm    L = 6mm
