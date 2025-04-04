@@ -55,3 +55,5 @@ H4 : (24.1,42.9)
 
 
 Whole PCB height (w/ main board) = 14.2mm
+
+Height of the bottom of the pcb to the
