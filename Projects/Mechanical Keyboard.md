@@ -54,4 +54,4 @@ H4 : (24.1,42.9)
 > I MEASURED USING THE DIAMETER
 
 
-Whole
+Whole PCB height (w/ main board) = 14.2mm
