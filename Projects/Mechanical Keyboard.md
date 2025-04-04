@@ -41,7 +41,8 @@ Daughter board Size: 317.9 mm* 131 mm
 Main Board Size: 34.5 mm* 55.4 mm
 
 (x,y)mm
-H1 : (,22.8)
+H1 : (25.3,22.8)
+H2 : ()
 
 > DONT FORGET TO ADD THE RADIUS TO THIS TO GET THE LENGTH.
-> 
+> I MEASURED USING THE DIAMETER
