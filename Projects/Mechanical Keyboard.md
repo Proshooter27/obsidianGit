@@ -28,3 +28,8 @@ screw diameter = 1.90mm (in the top part)
 knotch socket diameter = 6.40mm (in the top part)
 
 #2x1/4 and #2x3/8 screws
+
+For the pins
+D of pin = 2.4mm     L = 5mm
+Socket
+D = 
