@@ -6,12 +6,7 @@ kanban-plugin: board
 
 ## To-Do
 
-- [ ] Cut off part of the Main board to expose the testing pads on the pico
-- [ ] Soldering all the sockets
-- [ ] Testing the PCB
 - [ ] Add screw socket for usb C breakout board in the case
-- [ ] Testing the firmware
-- [ ] Add VIA support for firm
 - [ ] Solve why VIA doesnt work on linux
 
 
@@ -31,6 +26,11 @@ kanban-plugin: board
 - [ ] Build the plate for keyboard
 - [ ] Add Stabilizers
 - [ ] Add a socket for the rotary encoder in the plate
+- [ ] Soldering all the sockets
+- [ ] Testing the PCB
+- [ ] Cut off part of the Main board to expose the testing pads on the pico
+- [ ] Testing the firmware
+- [ ] Add VIA support for firm
 
 
 

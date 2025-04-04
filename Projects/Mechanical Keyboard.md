@@ -33,3 +33,5 @@ For the pins
 D of pin = 2.4mm     L = 5mm
 Socket
 D = 2.5mm    L = 6mm
+
+![[Pasted image 20250404073159.png]]
