@@ -39,3 +39,5 @@ D = 2.5mm    L = 6mm
 
 Daughter board Size: 317.9 mm* 131 mm
 Main Board Size: 34.5 mm* 55.4 mm
+
+H1 : 
