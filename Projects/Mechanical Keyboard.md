@@ -46,7 +46,8 @@ Main Board Size: 34.5 mm* 55.4 mm
 H1 : (25.3,22.8)
 H3 : (76.7,22.8)
 
-**Mea**
+**Measured x from bottom and y from left and right resp**
+H2 : (91.9,)
 
 > DONT FORGET TO ADD THE RADIUS TO THIS TO GET THE LENGTH.
 > I MEASURED USING THE DIAMETER
