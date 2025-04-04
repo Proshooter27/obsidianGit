@@ -47,7 +47,8 @@ H1 : (25.3,22.8)
 H3 : (76.7,22.8)
 
 **Measured x from bottom and y from left and right resp**
-H2 : (91.9,)
+H2 : (91.9,12.1)
+H4 : (24.1,42.9)
 
 > DONT FORGET TO ADD THE RADIUS TO THIS TO GET THE LENGTH.
 > I MEASURED USING THE DIAMETER
