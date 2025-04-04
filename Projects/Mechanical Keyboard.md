@@ -56,4 +56,10 @@ H4 : (24.1,42.9)
 
 Whole PCB height (w/ main board) = 14.2mm
 
+Height from the bottom:
 ![[WhatsApp Image 2025-04-04 at 22.27.55_6cba904a.jpg]]
+
+
+Length from side:
+![[WhatsApp Image 2025-04-04 at 22.31.36_2c481a42.jpg]]
+![[WhatsApp Image 2025-04-04 at 22.31.03_cd47696f.jpg]]
