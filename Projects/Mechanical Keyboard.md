@@ -26,3 +26,5 @@ Head diameter = 3mm (in the plate)
 screw diameter = 1.90mm (in the top part)
 
 knotch socket diameter = 6.40mm (in the top part)
+
+#2x1/4 and #2x3/8 screws
