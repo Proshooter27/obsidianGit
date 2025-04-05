@@ -4,3 +4,6 @@ Uses “mode” inputs to choose the operation; an ALU with N “mode” bits ca
 
 #### Example:
 ![[Pasted image 20250405180601.png]]
+
+Building the ALU,
+![[Pasted image 20250405180752.png]]
