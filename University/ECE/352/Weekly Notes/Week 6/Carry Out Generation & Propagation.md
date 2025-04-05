@@ -6,3 +6,7 @@ If A = 1 & B = 1,
 ![[Pasted image 20250405182931.png]]
 
 ### Carry-Out Propagation:
+If A ≠ B,
+	C<sub>out</sub> is equal to C<sub>in</sub>
+
+![[Pasted image 20250405183231.png]]
