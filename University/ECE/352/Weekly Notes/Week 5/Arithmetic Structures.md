@@ -30,3 +30,9 @@
 - If an input to a circuit will always be a constant value, we can simplify the circuit using the following rules:
 ![[Pasted image 20250405174007.png]]
 
+#### Example: Incrementer
+We use a RCA to do this.
+![[Pasted image 20250405174312.png]]
+
+Looking at the LSB,
+A<sub>0</sub> XOR 1 will always be 
