@@ -35,4 +35,8 @@ We use a RCA to do this.
 ![[Pasted image 20250405174312.png]]
 
 Looking at the LSB,
-A<sub>0</sub> XOR 1 will always be \bar{A} 
+![[Pasted image 20250405175505.png]]
+Middle Bit,
+![[Pasted image 20250405175536.png]]
+MSB,
+![[Pasted image 20250405175555.png]]
