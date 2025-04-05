@@ -1,3 +1,4 @@
+# Addition and Subtraction
 ### Half Adder:
 - Adds 2 single-bit inputs.
 - ![[Arithmetic Structures.png]]
@@ -23,3 +24,9 @@
 - Unsigned overflow if **C = 1**
 - Signed overflow if **V = 1**
 - ![[Arithmetic Structures-5.png]]
+
+# Contraction and Specialized Structures
+### Contraction:
+- If an input to a circuit will always be a constant value, we can simplify the circuit using the following rules:
+![[Pasted image 20250405174007.png]]
+
