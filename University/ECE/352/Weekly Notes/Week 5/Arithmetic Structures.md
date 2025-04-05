@@ -35,4 +35,4 @@ We use a RCA to do this.
 ![[Pasted image 20250405174312.png]]
 
 Looking at the LSB,
-A<sub>0</sub> XOR 1 will always be 
+A<sub>0</sub> XOR 1 will always be \bar{A} 
