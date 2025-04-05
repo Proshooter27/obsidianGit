@@ -20,4 +20,8 @@ We use the modes specified in the ISA to value fixed the adder to do the operati
 - Cells have connections to their neighbors for carry, shifts, rotates, etc.
 ![[Pasted image 20250405181959.png]]
 
-Now, if for example we wanna do a shift right, we then connect the value at A<sub>k</.sub> to the arrow going towards the right bit and value 
+Now, if for example we wanna do a shift right, we then connect the value at A<sub>k</.sub> to the arrow going towards the right bit and value fix the left most arrow that is going right as 0.
+
+> Note:
+> 1. Logical Shift Right: Sets the MSB as 0
+> 2. Arithmetic Shift Right: Sets the MSB as the same value of the original MSB.
