@@ -40,3 +40,7 @@ Middle Bit,
 ![[Pasted image 20250405175536.png]]
 MSB,
 ![[Pasted image 20250405175555.png]]
+
+
+So finally the circuit becomes: 
+![[Pasted image 20250405175641.png]]
