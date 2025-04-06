@@ -12,4 +12,7 @@ Now, the **“Flatten”** the ripple-carry equation equates to 2-levels of logi
 
 
 ### Extending the idea of CLAs
-We can't always keep on extending the chain everytime we need more bits. So, to solve that issue
+We can't always keep on extending the chain every time we need more bits. So, to solve that issue we pair the CLAs into 4-bit look-ahead blocks.
+
+#### Example: A 16-bit Carry Look-Ahead Adder
+![[Pasted image 20250406143803.png]]
