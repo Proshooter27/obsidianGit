@@ -21,4 +21,7 @@ A sequential circuit that has a **finite** number of possible states
 - **Next state** is the set of values that <u>will be stored</u> into the FFs <u>when they change state</u>
 
 ### State Tables
-We list the possible states and the possible inputs that can be received for a circuit and the output of the 
+We list the possible states and the possible inputs that can be received for a circuit and the output of the circuit.
+![[Pasted image 20250406161250.png]]
+
+![[Pasted image 20250406161335.png]]

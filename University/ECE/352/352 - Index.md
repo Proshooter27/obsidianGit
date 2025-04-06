@@ -33,4 +33,4 @@
 #### Week 7:
 - [[D Latches and Flip-Flops]]
 - [[Sequential Circuits]]
-- 
+- [[State Diagrams]]
