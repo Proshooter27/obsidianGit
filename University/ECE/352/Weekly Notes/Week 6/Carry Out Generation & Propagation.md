@@ -27,4 +27,9 @@ Which is,
 
 ![[Pasted image 20250405192000.png]]
 
-The first **[[Arithmetic Structures#Half Adder|Half Adder]]** does the actual calculation of the addition then next half adder actually calculates the C<sub>out</sub>. So, 
+The first **[[Arithmetic Structures#Half Adder|Half Adder]]** does the actual calculation of the addition then next half adder actually calculates the C<sub>out</sub>. So, we can replace the second half adder with a new circuit that implements the above function.
+
+### We can now create a Ripple Carry Adder by using PFAs and a Carry Chain.
+
+![[Pasted image 20250405200447.png]]
+
