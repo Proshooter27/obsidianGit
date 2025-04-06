@@ -33,3 +33,5 @@ The first **[[Arithmetic Structures#Half Adder|Half Adder]]** does the actual ca
 
 ![[Pasted image 20250405200447.png]]
 
+### Delays in a Circuit:
+- A gate’s output is not actually the result of its logic function until some time after the input(s) change
