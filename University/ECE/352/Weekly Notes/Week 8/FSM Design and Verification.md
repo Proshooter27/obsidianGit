@@ -33,3 +33,7 @@ As an example we will look at an example that outputs a 1 whenever the circuit r
 >Mealy needs fewer states than Moore for similar functionality.
 >Remember, the functionality is not the same
 
+### Examples:
+- Used meaningful names to help us build diagram
+- Now need to pick binary state encoding
+	- Doesn’t have to be Gray code, but it works well here
