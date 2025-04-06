@@ -38,3 +38,5 @@
 #### Week 8:
 - [[Sequential Circuit Design Overview]]
 - [[FSM Design and Verification]]
+- [[Flip-Flop Timing Parameters]]
+- 
