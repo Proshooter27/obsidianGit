@@ -34,3 +34,6 @@
 - [[D Latches and Flip-Flops]]
 - [[Sequential Circuits]]
 - [[State Diagrams]]
+
+#### Week 8:
+- 

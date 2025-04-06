@@ -9,3 +9,6 @@
 - Circuit outputs shown where they are relevant
 	- [[Moore Machines]]: inside the state circle
 	- [[Mealy Machines]]: on the transitions
+
+#### Comparing State Machine Types
+![[Pasted image 20250406162435.png]]
