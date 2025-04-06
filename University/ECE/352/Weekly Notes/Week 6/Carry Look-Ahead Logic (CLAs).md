@@ -1,0 +1,1 @@
+When we make a CLA, we trade of area/power to get a faster speed.
