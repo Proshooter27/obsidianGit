@@ -14,7 +14,6 @@ We use the modes specified in the ISA to value fixed the adder to do the operati
 - The Instruction Set Architecture for a processor specifies the encoding of instructions into bits
 
 
-
 ## Generic ALU Structure:
 - All cells get the same mode signals
 - Cells have connections to their neighbors for carry, shifts, rotates, etc.
