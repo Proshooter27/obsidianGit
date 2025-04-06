@@ -14,3 +14,10 @@ If A ≠ B,
 ### There are cases when C<sub>out</sub> has to be 0:
 If A = 0 & B = 0,
 	C<sub>out</sub> is 0 regardless of C<sub>in</sub>
+
+![[Pasted image 20250405190707.png]]
+
+Now, let us word this function.
+
+C<sub>out</sub> is 1 when the addition generates an carry or when the addition propagates and the C<sub>in</sub> is 1.
+
