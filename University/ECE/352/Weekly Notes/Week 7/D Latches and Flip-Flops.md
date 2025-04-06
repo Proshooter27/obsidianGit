@@ -20,7 +20,17 @@ We use the [[Clock Signal]]. Whenever we get a positive-edge, we update the valu
 > 
 > When the clock has a Positive-Edge, the Master Latch lets a value through and stores it and when the cock has a Negative-Edge, the Slave Latch stores the value that the Master Latch has and makes sure that it will save the correct value at that was at the positive-edge.
 
-### Timing Waveforms
+### Timing Wave-forms
 In reality, there is some delay after the active clock edge before the FF input is stored and appears at the FF output.
 ![[Pasted image 20250406153041.png]]
 
+### Functional Wave-forms
+The functional waveform does not show delay, but it still expresses <u>causality</u>
+- The value of a FF’s output just after the active clock edge is the value of its input just before that clock edge
+
+![[Pasted image 20250406153346.png]]
+
+### FF Direct Inputs
+Sometimes we need a FF to hold a specific value immediately (before the next active clock edge)
+- An **asynchronous input** affects the flip-flop immediately, without requiring an active clock edge
+- A **synchronous input** has no effect unless the clock is at an active edge
