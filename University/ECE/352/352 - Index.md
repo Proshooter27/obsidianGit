@@ -36,4 +36,5 @@
 - [[State Diagrams]]
 
 #### Week 8:
+- [[Sequential Circuit Design Overview]]
 - 
