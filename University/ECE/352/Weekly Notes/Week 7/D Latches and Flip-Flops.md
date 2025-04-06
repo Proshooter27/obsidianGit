@@ -17,4 +17,6 @@ We use the [[Clock Signal]]. Whenever we get a positive-edge, we update the valu
 ![[Pasted image 20250406150300.png]]
 
 > The purpose of having two D-latches in a flip-flop is to make sure that we save a value at only the positive-edge.
-> When the clock shifts from 0 to 1, the Master Latch lets a value through and stores it and when the cock shifts from 1 to 0, the Sl
+> 
+> When the clock has a Positive-Edge, the Master Latch lets a value through and stores it and when the cock has a Negative-Edge, the Slave Latch stores the value that the Master Latch has and makes sure that it will save the correct value at that was at the positive-edge.
+
