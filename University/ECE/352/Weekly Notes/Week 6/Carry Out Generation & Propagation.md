@@ -27,4 +27,4 @@ Which is,
 
 ![[Pasted image 20250405192000.png]]
 
-The first **AND** & **XOR** 
+The first 
