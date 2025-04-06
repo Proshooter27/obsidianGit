@@ -1,13 +1,13 @@
 Let us consider a case where we are adding 2 numbers **A** & **B**
 ### Carry-Out Generation:
 If A = 1 & B = 1,
-	We can say for sure that C<sub>out</sub> is 1 regardless of C<sub>in</sub>
+- We can say for sure that C<sub>out</sub> is 1 regardless of C<sub>in</sub>
 
 ![[Pasted image 20250405182931.png]]
 
 ### Carry-Out Propagation:
 If A ≠ B,
-	C<sub>out</sub> is equal to C<sub>in</sub>
+- C<sub>out</sub> is equal to C<sub>in</sub>
 
 ![[Pasted image 20250405183231.png]]
 
@@ -19,5 +19,8 @@ If A = 0 & B = 0,
 
 Now, let us word this function.
 
-C<sub>out</sub> is 1 when the addition generates an carry or when the addition propagates and the C<sub>in</sub> is 1.
+C<sub>out</sub> is 1 when the addition generates an carry **or** when the addition propagates **and** the C<sub>in</sub> is 1.
+
+Which is,
+- **C<sub>k+1</sub> = G<sub>k</sub> + P<sub>k</sub>C<sub>k</sub>**
 
