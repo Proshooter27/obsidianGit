@@ -24,3 +24,14 @@
 	- Create a test vector that exercises the machine such that each state transition is tested
 	- Test that the state transitions and output(s) match the state diagram
 	- Verify that the machine’s behavior meets the original specification
+
+#### Resets in a Sequential Circuit
+- Puts system into a known state
+	- Sets the initial value of all state flip-flops
+	- This is the initial state or reset state
+- This master reset is used at very specific times:
+	- Applied on circuit power-up
+	- Applied when soft failure puts circuit into invalid/incorrect state
+- Can be asynchronous or synchronous
+	- Asynchronous reset input must be built in to FF; can add logic to implement synchronous reset
+	- Asynchronous inputs are ONLY used for master reset
