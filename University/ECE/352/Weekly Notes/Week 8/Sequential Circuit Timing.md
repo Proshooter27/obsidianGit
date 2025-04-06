@@ -38,3 +38,7 @@
 		- **Not** looking at the path(s) from the <u>circuit</u> input(s)
 ![[Pasted image 20250406183822.png]]
 
+##### An Example:
+Find t<sub>min</sub>, given the following delays (in ns):
+![[Pasted image 20250406184602.png]]
+
