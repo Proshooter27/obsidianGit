@@ -27,4 +27,4 @@ Which is,
 
 ![[Pasted image 20250405192000.png]]
 
-The first [Half Adder]()
+The first **[[Arithmetic Structures#Half Adder|Half Adder]]** does the actual calculation of the addition then next half adder actually calculates the C<sub>out</sub>. So, 
