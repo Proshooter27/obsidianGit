@@ -37,3 +37,11 @@ As an example we will look at an example that outputs a 1 whenever the circuit r
 - Used meaningful names to help us build diagram
 - Now need to pick binary state encoding
 	- Doesn’t have to be Gray code, but it works well here
+
+#### Lets design a Moore Machine:
+![[Pasted image 20250406175958.png]]
+
+#### Lets design a Mealy Machine:
+![[Pasted image 20250406180037.png]]
+
+Now, we have to implement these 
