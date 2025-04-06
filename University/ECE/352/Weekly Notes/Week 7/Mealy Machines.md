@@ -1,0 +1,1 @@
+In Mealy Machines, your output on **both** the current state 
