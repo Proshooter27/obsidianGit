@@ -23,3 +23,16 @@ Synchronous flip-flop inputs must be stable for a certain time <u>after</u> each
 #### Flip-Flop Propagation Delay (t<sub>pd</sub>)
 The flip-flop output will not reflect the new stored value until some time <u>after</u> the active clock edge
 ![[Pasted image 20250406181015.png]]
+
+### Flip-Flop Timing Parameters
+![[Pasted image 20250406181339.png]]
+
+
+- Setup (t<sub>s</sub>) and hold (t<sub>h</sub>) times: 
+	- Changes to FF input during these times may or may not be reflected in the stored value…
+	- DO NOT change the FF input values during these times
+	- This also means you should not have the circuit inputs change on active clock edges when simulating a circuit!
+- Propagation delay (t<sub>pd</sub>)
+	- Takes some time after the clock edge for the stored FF value to “show up” at outputs
+- Clock period
+	- Clock can only go so fast and still have the FFs behave in an expected manner due to the above
