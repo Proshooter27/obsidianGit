@@ -34,4 +34,10 @@ The first **[[Arithmetic Structures#Half Adder|Half Adder]]** does the actual ca
 ![[Pasted image 20250405200447.png]]
 
 ### Delays in a Circuit:
-- A gate’s output is not actually the result of its logic function until some time after the input(s) change
+- A gate’s output is not actually the result of its logic function until some time after the input(s) change.
+- Each gate along a path from a circuit input to a circuit output adds to the delay of that path.
+- The path with the longest delay from ANY input to ANY output is called the “**critical path**”
+
+### But, why do we compute the carry differently?
+- Ripple carry adders are small and easy to create
+- But ripple carry adders are slow!
