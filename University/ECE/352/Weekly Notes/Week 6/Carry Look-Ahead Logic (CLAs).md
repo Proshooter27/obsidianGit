@@ -16,3 +16,7 @@ We can't always keep on extending the chain every time we need more bits. So, to
 
 #### Example: A 16-bit Carry Look-Ahead Adder
 ![[Pasted image 20250406143803.png]]
+
+Now, the equation looks like the below.
+![[Pasted image 20250406144250.png]]
+

@@ -30,3 +30,6 @@
 - [[Carry Out Generation & Propagation]]
 - [[Carry Look-Ahead Logic (CLAs)]]
 
+#### Week 7:
+- [[D Latches and Flip-Flops]]
+- 
