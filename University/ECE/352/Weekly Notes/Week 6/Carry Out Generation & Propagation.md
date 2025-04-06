@@ -11,3 +11,6 @@ If A ≠ B,
 
 ![[Pasted image 20250405183231.png]]
 
+### There are cases when C<sub>out</sub> has to be 0:
+If A = 0 & B = 0,
+	C<sub>out</sub> is 0 regardless of C<sub>in</sub>
