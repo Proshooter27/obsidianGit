@@ -8,3 +8,5 @@ We can now convert the above Ripple-Carry Adder by opening up the parenthesis.
 ![[Pasted image 20250406142032.png]]
 ![[Pasted image 20250406142045.png]]
 
+Now, the **“Flatten”** the ripple-carry equation equates to 2-levels of logic for every C<sub>out</sub>
+
