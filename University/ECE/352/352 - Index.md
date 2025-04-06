@@ -28,4 +28,5 @@
 #### Week 6:
 - [[Arithmetic Logic Units (ALUs)]]
 - [[Carry Out Generation & Propagation]]
+- [[Carry Look-Ahead Logic (CLAs)]]
 
