@@ -42,3 +42,13 @@
 Find t<sub>min</sub>, given the following delays (in ns):
 ![[Pasted image 20250406184602.png]]
 
+> Critical Path Pitfall
+> 1. Input paths should NOT be considered when computing f<sub>max</sub> = 1/t<sub>min</sub>
+> 	 We only care about FF→FF delays
+
+### Hold Time Violations:
+- Hold time can be violated if a change at a flip-flop output can propagate through the circuit to a flip-flop input before the end of the hold time
+	- Can occur if t<sub>h</sub> > t<sub>pd</sub> + t<sub>comb,min</sub>
+	- Need to consider only the fastest (least delay) path from flip-flop output to flip-flop input
+- Most flip-flops are now designed so t<sub>h</sub> < t<sub>pd</sub>
+	- In that case, hold time cannot be violated even when a flip-flop output is directly connected to a flip-flop input
