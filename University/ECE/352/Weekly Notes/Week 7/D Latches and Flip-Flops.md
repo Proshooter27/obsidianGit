@@ -34,3 +34,7 @@ The functional waveform does not show delay, but it still expresses <u>causality
 Sometimes we need a FF to hold a specific value immediately (before the next active clock edge)
 - An **asynchronous input** affects the flip-flop immediately, without requiring an active clock edge
 - A **synchronous input** has no effect unless the clock is at an active edge
+
+Commonly used to force a circuit’s flip-flops into a known desired state on start-up
+- Direct set (preset) forces flip-flop to 1
+- Direct reset (clear) forces flip-flop to 0
