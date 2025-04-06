@@ -1,2 +1,0 @@
-- Adds 2 single-bit inputs.
-- ![[Arithmetic Structures.png]]
