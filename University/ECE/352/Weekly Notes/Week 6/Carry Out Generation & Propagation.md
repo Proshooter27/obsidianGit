@@ -20,10 +20,10 @@ If A = 0 & B = 0,
 Now, let us word this function.
 
 C<sub>out</sub> is 1 when the addition generates an carry **or** when the addition propagates **and** the C<sub>in</sub> is 1.
-
 Which is,
 - **C<sub>k+1</sub> = G<sub>k</sub> + P<sub>k</sub>C<sub>k</sub>**
 
 #### Now, we can reorganize the full adder by just implementing the above function.
 
 ![[Pasted image 20250405192000.png]]
+
