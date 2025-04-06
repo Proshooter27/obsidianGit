@@ -24,9 +24,17 @@
 #### Clock Frequency
 - The <u>clock speed</u> of the sequential circuit
 	- Faster clock → higher frequency
-- <u>Maximum</u> circuit frequency:  fmax = 1 / tmin
-- Actual circuit frequency:  f = 1 / tp
+- <u>Maximum</u> circuit frequency:  f<sub>max</sub> = 1 / t<sub>min</sub>
+- <u>Actual</u> circuit frequency:  f = 1 / t<sub>p</sub>
 
-Remember:
-Clock period is ps, ns, µs, ms, s…
-Frequency is Hz, kHz, MHz, GHz…
+- Remember:
+	- Clock period is ps, ns, µs, ms, s…
+	- Frequency is Hz, kHz, MHz, GHz…
+
+#### Critical Path
+- Longest (largest-delay) path that **begins and ends at a flip-flop** 
+	- Can begin and end at the **same** FF!
+	- **Only** the paths that begin and end at a flip-flop
+		- **Not** looking at the path(s) from the <u>circuit</u> input(s)
+![[Pasted image 20250406183822.png]]
+
