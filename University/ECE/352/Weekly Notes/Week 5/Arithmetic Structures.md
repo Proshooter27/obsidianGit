@@ -1,7 +1,6 @@
 # Addition and Subtraction
 ### Half Adder:
-- Adds 2 single-bit inputs.
-- ![[Arithmetic Structures.png]]
+- [[Half Adder]]
 
 ### Full Adder:
 - Adds three single-bit inputs where, 2 are the bits from numbers that you are adding and the 3<sup>rd</sup> is Carry-in.
