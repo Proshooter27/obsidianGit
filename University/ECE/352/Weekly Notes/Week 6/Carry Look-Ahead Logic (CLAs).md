@@ -12,4 +12,4 @@ Now, the **“Flatten”** the ripple-carry equation equates to 2-levels of logi
 
 
 ### Extending the idea of CLAs
-We can't always have 
+We can't always keep on extending the chain everytime we need more bits. So, to solve that issue
