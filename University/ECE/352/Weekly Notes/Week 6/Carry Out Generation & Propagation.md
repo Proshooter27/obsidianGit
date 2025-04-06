@@ -24,3 +24,6 @@ C<sub>out</sub> is 1 when the addition generates an carry **or** when the additi
 Which is,
 - **C<sub>k+1</sub> = G<sub>k</sub> + P<sub>k</sub>C<sub>k</sub>**
 
+#### Now, we can reorganize the full adder by just implementing the above function.
+
+![[Pasted image 20250405192000.png]]
