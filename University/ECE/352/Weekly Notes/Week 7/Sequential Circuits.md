@@ -11,3 +11,11 @@ A sequential circuit that has a **finite** number of possible states
 	- The “next state” becomes the “current state”
 - The next state values are produced by a combinational function of the current state values and the circuit inputs
 - The circuit outputs are produced by a combinational function of the current state and <u>possibly</u> the circuit inputs
+
+#### Anatomy of a Simple Seq. Circuit
+![[Pasted image 20250406160418.png]]
+
+#### Current vs. Next State
+ - **Current state** is the set of values that are stored in the FFs at a given time
+	 - Remember: FFs output their <u>current</u> values
+- **Next state** is the set of values that will be stored into the FFs when they change state
