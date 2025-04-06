@@ -44,4 +44,18 @@ As an example we will look at an example that outputs a 1 whenever the circuit r
 #### Lets design a Mealy Machine:
 ![[Pasted image 20250406180037.png]]
 
-Now, we have to implement these 
+Now, we have to implement these functions in a circuit.
+![[Pasted image 20250406180125.png]]
+
+### Verification:
+- We have to make sure that the circuit matches the original specifications.
+	- Exhaustive testing is only practical for smaller circuits, and cannot test all possible sequences
+	- Instead test each transition and output, with a minimum set of input vectors (minimum  check correctness with less effort)
+		- Get to each state using reset and/or a sequence of inputs
+		- Leave each state using all possible input combinations (2#inputs)
+	- Verify against both specification and state diagram
+		- Don’t just verify against equations in case they are incorrect
+
+#### Example:
+Create input sequence to test Mealy version of pattern recognizer
+![[Pasted image 20250406180554.png]]
