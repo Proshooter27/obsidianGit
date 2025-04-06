@@ -10,3 +10,4 @@ If A ≠ B,
 	C<sub>out</sub> is equal to C<sub>in</sub>
 
 ![[Pasted image 20250405183231.png]]
+
