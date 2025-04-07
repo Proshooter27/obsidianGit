@@ -52,3 +52,12 @@ Find t<sub>min</sub>, given the following delays (in ns):
 	- Need to consider only the fastest (least delay) path from flip-flop output to flip-flop input
 - Most flip-flops are now designed so t<sub>h</sub> < t<sub>pd</sub>
 	- In that case, hold time cannot be violated even when a flip-flop output is directly connected to a flip-flop input
+
+### Synchronization:
+- There can be problems when inputs to a synchronous circuit change asynchronously
+	- Setup/hold time violations if a flip-flop input changes too close to the active clock edge
+	- Unequal delay may cause input changes to show up in different cycles instead of in the same cycle
+- Synchronizing input signals
+	- In general, all inputs to a synchronous circuit must be synchronized (aligned to the circuit’s clock)
+	- …unless they come from another synchronous circuit using the same clock
+
