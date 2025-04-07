@@ -11,6 +11,7 @@ banner_y: 0.552
 - 👔 Personal Projects
 	- [[Outfits]]
 	- [[PC]]
+- [[Things to Watch]]
 
 # University
 
