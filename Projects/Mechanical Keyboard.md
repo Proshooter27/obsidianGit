@@ -63,3 +63,6 @@ Height from the bottom:
 Length from side:
 ![[WhatsApp Image 2025-04-04 at 22.31.36_2c481a42.jpg]]
 ![[WhatsApp Image 2025-04-04 at 22.31.03_cd47696f.jpg]]
+
+
+USB C Dimensions 10.2mm x 5.7mm
