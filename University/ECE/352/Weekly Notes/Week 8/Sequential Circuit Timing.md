@@ -67,3 +67,4 @@ To prevent timing issues from input changes, we add a flip-flop to synchronize i
 
 This fixes most input timing problems—except one special case.
 
+Even with synchronization, input changes can violate setup/hold times, possibly causing **metastability**—where the flip-flop output becomes unstable or unpredictable for a short time. Though rare, it can happen. To minimize its effect, we use **multiple flip-flops in a chain**, greatly reducing the chance that metastability propagates. While the risk can't be eliminated entirely, it can be made negligible.
