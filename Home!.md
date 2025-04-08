@@ -1,5 +1,8 @@
 ---
 banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
+---
+---
+banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 banner_y: 0.552
 ---
 # Personal Projects
