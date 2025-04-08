@@ -54,10 +54,11 @@ Find t<sub>min</sub>, given the following delays (in ns):
 	- In that case, hold time cannot be violated even when a flip-flop output is directly connected to a flip-flop input
 
 ### Synchronization:
-- There can be problems when inputs to a synchronous circuit change asynchronously
-	- Setup/hold time violations if a flip-flop input changes too close to the active clock edge
-	- Unequal delay may cause input changes to show up in different cycles instead of in the same cycle
-- Synchronizing input signals
-	- In general, all inputs to a synchronous circuit must be synchronized (aligned to the circuit’s clock)
-	- …unless they come from another synchronous circuit using the same clock
+- Changes on the circuit’s external inputs could cause violations of the flip-flop set-up and hold times.
+- What if the input to the circuit is a button that someone presses? 
+	- We cannot reasonably tell them not to press it at specific times, and even if we could, they wouldn’t be able to be that precise.  
+	- Plus, even if an input change does not violate setup or hold times, unequal delay paths can mean that an input change does not propagate to all of a circuit’s flip-flops in the same clock cycle. We’ll see an example of this in a moment.  
+Instead of trying to restrict the timing of input changes, we can address the underlying problem.
+
+The real problem is that the timing of the input signals is not related to the timing of our clock signal. To fix this, we can “synchronize” those signals such that their changes arrive to our circuit right after the active clock edges.
 
