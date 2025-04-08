@@ -55,7 +55,7 @@ Find t<sub>min</sub>, given the following delays (in ns):
 
 ### Synchronization:
 - Changes on the circuit’s external inputs could cause violations of the flip-flop set-up and hold times.
-- What if the input to the circuit is a button that someone presses? 
+- What if the input to the circuit is a button that someone presses?
 	- We cannot reasonably tell them not to press it at specific times, and even if we could, they wouldn’t be able to be that precise.  
 	- Plus, even if an input change does not violate setup or hold times, unequal delay paths can mean that an input change does not propagate to all of a circuit’s flip-flops in the same clock cycle. We’ll see an example of this in a moment.  
 Instead of trying to restrict the timing of input changes, we can address the underlying problem.
