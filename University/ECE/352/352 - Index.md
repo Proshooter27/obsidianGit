@@ -42,4 +42,4 @@
 - [[Sequential Circuit Timing]]
 
 #### Week 9:
-- 
+- [[One-Hot State Machine]]
