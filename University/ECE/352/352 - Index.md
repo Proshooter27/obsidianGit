@@ -40,3 +40,6 @@
 - [[FSM Design and Verification]]
 - [[Flip-Flop Timing Parameters]]
 - [[Sequential Circuit Timing]]
+
+#### Week 9:
+- 
