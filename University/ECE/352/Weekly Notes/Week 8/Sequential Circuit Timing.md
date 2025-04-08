@@ -46,19 +46,16 @@ Find t<sub>min</sub>, given the following delays (in ns):
 > 1. Input paths should NOT be considered when computing f<sub>max</sub> = 1/t<sub>min</sub>
 > 	 We only care about FF→FF delays
 
-### Hold Time Violations:
+### Hold Time Violations
 - Hold time can be violated if a change at a flip-flop output can propagate through the circuit to a flip-flop input before the end of the hold time
 	- Can occur if t<sub>h</sub> > t<sub>pd</sub> + t<sub>comb,min</sub>
 	- Need to consider only the fastest (least delay) path from flip-flop output to flip-flop input
 - Most flip-flops are now designed so t<sub>h</sub> < t<sub>pd</sub>
 	- In that case, hold time cannot be violated even when a flip-flop output is directly connected to a flip-flop input
 
-### Synchronization:
+### Synchronization
 - Changes on the circuit’s external inputs could cause violations of the flip-flop set-up and hold times.
-- What if the input to the circuit is a button that someone presses?
-	- We cannot reasonably tell them not to press it at specific times, and even if we could, they wouldn’t be able to be that precise.  
-	- Plus, even if an input change does not violate setup or hold times, unequal delay paths can mean that an input change does not propagate to all of a circuit’s flip-flops in the same clock cycle. We’ll see an example of this in a moment.  
-Instead of trying to restrict the timing of input changes, we can address the underlying problem.
+- The real problem is that the timing of the input signals is not related to the timing of our clock signal. To fix this, we can “synchronize” those signals such that their changes arrive to our circuit right after the active clock edges.
 
-The real problem is that the timing of the input signals is not related to the timing of our clock signal. To fix this, we can “synchronize” those signals such that their changes arrive to our circuit right after the active clock edges.
-
+#### Synchronization Problem:
+![[Pasted image 20250408015805.png]]
