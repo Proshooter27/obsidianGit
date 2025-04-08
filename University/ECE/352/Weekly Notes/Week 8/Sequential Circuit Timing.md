@@ -59,5 +59,6 @@ Find t<sub>min</sub>, given the following delays (in ns):
 
 #### Synchronization Problem:
 ![[Pasted image 20250408015805.png]]
-Here is an example FSM that contains two flip-flops. It is currently in a state where if A is 0, the next state should be 0, and if A is 1. Input A feeds the next state logic for both flip-flops, but there are different delays along the path to each flip-flop.
+In this example FSM with two flip-flops, input A determines the next state: 0 if A=0, and 3 if A=1. A changes from 0 to 1 just 5ns before the clock edge. Due to differing delays, the change reaches the top flip-flop in time but not the bottom one. As a result, at the clock edge, the flip-flops capture different inputs and the FSM incorrectly transitions to state 2 instead of 0 or 3.
 
+To prevent timing issues from input changes, we add a flip-flop to synchronize inputs. This ensures input values only change at clock edges. However, it adds delay paths that can affect the minimum clock period (tMIN), potentially requiring a slower clock. This fixes most input timing problems—except one special case.
