@@ -74,4 +74,4 @@ USB C Dimensions 10.2mm x 5.7mm
 	1. M2 of 16mm long x4
 	2. M2 of 25mm long x4
 2. Screw Mount PCB to Case
-	1. M4 of
+	1. M4 of 8mm long x4
