@@ -76,4 +76,4 @@ USB C Dimensions 10.2mm x 5.7mm
 2. Screw Mount PCB to Case
 	1. M4 of 10mm long x4
 3. Screw the breakout board to Case
-	1. 
+	1. M3 of
