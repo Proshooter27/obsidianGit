@@ -7,6 +7,7 @@ banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
     - [[DN40 Docker]]
     - [[Mechanical Keyboard]]
     - [[16-bit CPU]]
+    - [[Xiaomi Notebook Pro Keycap]]
 - 👔 Personal Projects
 	- [[Outfits]]
 	- [[PC]]
