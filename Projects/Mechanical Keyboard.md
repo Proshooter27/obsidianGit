@@ -77,3 +77,5 @@ USB C Dimensions 10.2mm x 5.7mm
 	1. M4 of 10mm long x4
 3. Screw the breakout board to Case
 	1. M3 of 8mm long x2
+4. Screw the plate to top
+	1. M2 of 6mm long x8
