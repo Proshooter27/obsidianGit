@@ -78,3 +78,4 @@ USB C Dimensions 10.2mm x 5.7mm
 	2. M3 threaded sockets of 8mm x2
 3. Screw the plate to top
 		1. M2 of 6mm long x8
+		2. M2 threaded sockets of 6mm x8
