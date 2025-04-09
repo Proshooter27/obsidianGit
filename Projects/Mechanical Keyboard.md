@@ -73,7 +73,8 @@ USB C Dimensions 10.2mm x 5.7mm
 1. Case to Top
 	1. M2 of 16mm long x4
 	2. M2 of 25mm long x4
-	3. M2 threaded Sockets of 10mm x12
+	3. M2 threaded Sockets of 10mm x8
+	4. M2 threaded Sockets of 6mm x4
 2. Screw the breakout board to Case
 	1. M3 of 8mm long x2
 	2. M3 threaded sockets of 8mm x2
