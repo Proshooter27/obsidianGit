@@ -1,6 +1,9 @@
 ---
 banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 ---
+---
+banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
+---
 # Personal Projects
 
 - 💻 Engineering Projects
