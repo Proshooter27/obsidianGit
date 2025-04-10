@@ -13,18 +13,18 @@ Upon reviewing my grading contract, I've successfully fulfilled most of my commi
 - [ ] Provide detailed, thoughtful feedback for daily peer review activities
 - [ ] Complete the Micro/Macro Feedback for Sequence 3 Workshop
 - [ ] Actively participate during Sequence 3 Workshop discussions
-- [ ] Attend 1st Required Conference 
-- [ ] Attend 2nd Required Conference
+- [x] Attend 1st Required Conference 
+- [x] Attend 2nd Required Conference
 - [ ] Office hour visit
-- [ ] Participate in all writing activities and discussions
-- [ ] Fulfill expectations on Short Assignment #1
-- [ ] Fulfill expectations on Short Assignment #2
-- [ ] Fulfill expectations on Short Assignment #3
+- [x] Participate in all writing activities and discussions
+- [x] Fulfill expectations on Short Assignment #1
+- [x] Fulfill expectations on Short Assignment #2
+- [x] Fulfill expectations on Short Assignment #3
 - [ ] Fulfill expectations on Short Assignment #4
-- [ ] Complete Reading Response #1
-- [ ] Complete Reading Response #2
-- [ ] Complete Reading Response #3 
-- [ ] Complete Reading Response #4 
-- [ ] Complete Reading Response #5 
-- [ ] Complete Reading Response #6 
-- [ ] Complete Reading Response #7
+- [x] Complete Reading Response #1
+- [x] Complete Reading Response #2
+- [x] Complete Reading Response #3 
+- [x] Complete Reading Response #4 
+- [x] Complete Reading Response #5 
+- [x] Complete Reading Response #6 
+- [x] Complete Reading Response #7
