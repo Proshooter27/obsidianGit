@@ -17,6 +17,7 @@ banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 
 - 🌷 Spring 25
 	- ECE 352 [[352 - Index]]
+	- Engl 100 [[Index]]
     
 - 🍂 Fall 24
 
