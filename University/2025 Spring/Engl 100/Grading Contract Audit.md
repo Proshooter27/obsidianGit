@@ -28,3 +28,6 @@ Upon reviewing my grading contract, I've successfully fulfilled most of my commi
 - [x] Complete Reading Response #5 
 - [x] Complete Reading Response #6 
 - [x] Complete Reading Response #7
+- [ ] COMPLETE EXTRA: Reimagine WRITING PROJECT #1  
+- [ ] COMPLETE EXTRA: EXPANDED REVISION W/RISK ASSIGNMENT
+
