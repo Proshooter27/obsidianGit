@@ -12,6 +12,7 @@ banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 	- [[Outfits]]
 	- [[PC]]
 - [[Things to Watch]]
+- [[Course Calendar Maker]]
 
 # University
 
