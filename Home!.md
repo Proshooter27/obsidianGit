@@ -1,7 +1,8 @@
 ---
 banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 cssclasses:
-  - Dashboard
+  - dashboard
+banner_y: 0.56
 ---
 # Personal Projects
 
